@@ -1,4 +1,4 @@
-#Study Time Tracker
+# Study Time Tracker
 
 This program calculates how many hours you are on track to study in a week based on the number of hours you studied today.
 
